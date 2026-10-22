@@ -163,7 +163,10 @@ Keep this client connected and subscribed to the alerts channel.
 127.0.0.1:6379> PUBLISH alerts "Hello World!"
 (integer) 1
 ```
+
 The subscriber should receive the published message. Exact output formatting depends on the client's handling of the RESP response.
+
+
 ---
 
 ## 🧪 Test Coverage
