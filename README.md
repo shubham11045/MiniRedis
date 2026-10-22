@@ -1,5 +1,3 @@
-# MiniRedis 🚀
-
 
 # MiniRedis 🚀
 
